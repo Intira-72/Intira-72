@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="150"/>
 </div>
 
+
 ### Hi there 👋
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
