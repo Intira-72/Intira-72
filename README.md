@@ -27,7 +27,7 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="60" height="60" />&nbsp; -->
   
 </div>
-
+<hr>
 ### :rocket: State :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Intira-72&theme=dark)](https://git.io/streak-stats)
 
