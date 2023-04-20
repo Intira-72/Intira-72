@@ -7,6 +7,19 @@
 <hr>
 
 ### :technologist: About Me :
+<p>
+Hello! My name is Muse Intira V. and I am excited to share my experiences and background with you.
+
+Firstly, I did not complete a university degree, but I have always been a self-learner. I have always been passionate about learning new things and acquiring new skills. This drive to learn has led me to the world of coding, which I absolutely love.
+
+I am particularly drawn to coding because it allows me to be creative and to build things from scratch. The feeling of seeing my code come to life is incredibly satisfying. I am constantly challenging myself to learn new coding languages and to create more complex programs.
+
+One of the things I enjoy most about learning is the challenge of stepping outside of my comfort zone. I believe that the best way to grow and develop new skills is to take on challenges that are outside of my current abilities. This mindset has helped me to develop a strong sense of perseverance and determination, which has been invaluable in my coding journey.
+
+I am also a firm believer in the power of experience. Learning from mistakes and failures has helped me to grow and develop as a coder. I am always willing to try new things and to take risks, knowing that failure is an opportunity to learn and improve.
+
+In conclusion, my passion for coding and my commitment to self-learning have led me to a fulfilling career in tech. I believe that learning is a lifelong process, and I am excited to continue developing my skills and knowledge in the field of coding.
+</p>
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
